@@ -1,3 +1,4 @@
 # docker_glassfish
-Glassfish image with mysql driver install added. 
+Glassfish image with mysql driver install added
+. 
 
